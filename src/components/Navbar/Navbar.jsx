@@ -23,7 +23,7 @@ const Navbar = () => {
           </li>
         </ul>
         <button className="text-base transform hover:translate-y-[-0.4rem] transition duration-300 ease-in-out bg-black text-white p-2 cursor-pointer">
-          <a href="#">Book Now</a>
+          <a href="#">Book Now</a>  
         </button>
       </div>
     </>
