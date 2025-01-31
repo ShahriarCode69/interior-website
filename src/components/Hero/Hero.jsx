@@ -12,7 +12,7 @@ const Hero = () => {
           Bring your dream to life with one-on-one design help & hand picked
           products tailored to your style, space and budget.
         </p>
-        <button className="m-5 text-base transform hover:translate-y-[-0.4rem] transition duration-300 ease-in-out bg-black text-white p-3 cursor-pointer md:text-le">
+        <button className="m-5 text-base transform hover:translate-y-[-0.4rem] transition duration-300 ease-in-out bg-black text-white p-3 cursor-pointer md:ml-0">
           <a href="#">Get Started</a>
         </button>
         </div>
